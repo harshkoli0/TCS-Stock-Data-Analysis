@@ -1,4 +1,4 @@
- TCS Stock Data Analysis
+## TCS Stock Data Analysis
 
 ## 1. Data Cleaning & Processing
 - Check for missing values and handle them appropriately.
