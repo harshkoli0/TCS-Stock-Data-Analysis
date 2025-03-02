@@ -20,7 +20,6 @@
 - Compare the 7-day and 30-day moving average trends with the actual closing price.
 - Plot a histogram of trading volume distribution.
 - Analyze stock volatility (High - Low) over time.
-Compare the 7-day and 30-day moving average trends with the actual closing price.
 
 
 
