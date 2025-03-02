@@ -8,7 +8,7 @@ Identify duplicate dates and resolve them.
 
 Inspect and update data types as needed
 
-2. Statistics & Insights
+Statistics & Insights
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Calculate the average closing price.
 
@@ -24,7 +24,7 @@ Analyze the correlation between opening and closing prices.
 
 Find the most volatile trading day (highest difference between High & Low).
 
-3. Visualization-Based Analysis
+Visualization-Based Analysis
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Plot a line chart for stock price trends over time.
 
