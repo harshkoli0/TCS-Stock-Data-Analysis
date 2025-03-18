@@ -1,4 +1,6 @@
 ## TCS Stock Data Analysis
+## overview 
+The TCS stock dataset provides historical stock price information, allowing for data cleaning, statistical analysis, and visualization to gain insights into market trends and trading behavior.
 
 ## 1. Data Cleaning & Processing
 - Check for missing values and handle them appropriately.
